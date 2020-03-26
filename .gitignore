@@ -4,3 +4,8 @@
 *.iml
 *.hprof
 *.log
+korge.keystore
+local.properties
+src/main/AndroidManifest.xml
+src/main/java/MainActivity.kt
+src/main/res/mipmap-mdpi/icon.png
